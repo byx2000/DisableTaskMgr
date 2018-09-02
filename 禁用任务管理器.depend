@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491721439 source:c:\users\home\desktop\禁用任务管理器\main.cpp
+	<windows.h>
+	<TlHelp32.h>
+
+1491707086 source:c:\users\home-pc\desktop\禁用任务管理器\main.cpp
+	<windows.h>
+	<TlHelp32.h>
+
